@@ -18,7 +18,3 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
  <img align="center" alt="Csharp" height="40" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 </div> 
-
-
-
-![Python](https://img.shields.io/badge/Python-3.14-blue)
