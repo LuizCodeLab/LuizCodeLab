@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 # Olá, eu sou o Luiz!
-- Estudante de Desenvolvimento de Sistemas
-- Focado em Python, HTML e CSS
-- Preparando-se para o mercado de tecnologia
+- Desenvolvedor de Sistemas e Automações para empresas.
+- Focado em Python, HTML, PHP, JAVASCRIPT e CSS
+- Desenvolvemos soluções digitais sob medida para organizar processos, automatizar tarefas e facilitar a gestão.
 - Contato:[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-thebadge&logo=microsoft-outlook&logoColor=white)](mailto:Luiz.guh2019@hotmail.com)
 ## Tecnologias que estudo
 <div style="display: inline_block"><br>
