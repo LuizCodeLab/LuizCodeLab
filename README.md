@@ -1,20 +1,21 @@
-## Hi there 👋
+# Hi, I'm Luiz 👋
 
-# Olá, eu sou o Luiz!
-- Desenvolvedor de Sistemas e Automações para empresas.
-- Focado em Python, HTML, PHP, JAVASCRIPT e CSS
-- Desenvolvemos soluções digitais sob medida para organizar processos, automatizar tarefas e facilitar a gestão.
-- Contato:[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-thebadge&logo=microsoft-outlook&logoColor=white)](mailto:Luiz.guh2019@hotmail.com)
-## Tecnologias que estudo
-<div style="display: inline_block"><br>
- <img align="center" alt="Python" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
- <img align="center" alt="HTML" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
- <img align="center" alt="CSS" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
- <img align="center" alt="Java" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
- <img align="center" alt="Csharp" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-</div> 
+Software developer in training from Praia Grande, Brazil. I'm finishing my Systems Development technical course (Etec) and looking for a remote opportunity to keep growing as a developer.
+
+## What I build
+
+- **Pokebot / Mewbot (C++):** 2D game automation with computer vision. Screen capture, template matching, input handling and a license/update system.
+- **Lure Bot (Python):** game automation with OpenCV, Tesseract OCR and a PyQt5 interface.
+- **VendByFlora (Electron + React + Node):** desktop app that helps small shops message customers by interest group.
+
+## Tech
+
+Python · C++ · JavaScript · React · Node.js · SQL (MySQL, SQLite) · PHP · C# (.NET MAUI) · Git
+
+## Languages
+
+Portuguese (native) · English (A2, in active study)
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/luiz-lima-2a63a4438)
